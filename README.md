@@ -3,7 +3,7 @@ Survey Query is a Slack app bot designed to streamline the survey process within
 
 # Key Features:
 
-*Seamless integration with Slack for a user-friendly survey experience. 
+*Seamless integration with Slack for a user-friendly survey experience.   
 *On-demand survey form generation within Slack channels.  
 *Efficiently collects and organizes user responses in a dedicated Google Spreadsheet.  
 
